@@ -1,2 +1,4 @@
 # Analog_clock
-It shows the time
+This is analog clock which displays time.
+HTML, CSS, and JavaScript was used.
+
